@@ -4,7 +4,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [The Official Project Page](http://www.seat.utulsa.edu/?page_id=42)
 * [A Video of the Tool](https://www.youtube.com/watch?v=h41F9hxMMVA)
 
-In this repository, for ReAssert you will find:
+In this repository, for SEREBRO you will find:
 * :x: Source code (not available)
 * :x: Original tool (not available)
 
