@@ -1,4 +1,4 @@
-This repository contains information related to the tool SEREBRO presented at International Conference on Software Engineering, 2011. The tool was originally presented in [this paper.](http://dl.acm.org/citation.cfm?doid=1985793.1985982)
+This repository contains information related to the tool SEREBRO presented at International Conference on Software Engineering, 2011. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=1985793.1985982).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page](http://www.seat.utulsa.edu/?page_id=42)
