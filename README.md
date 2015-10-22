@@ -8,6 +8,5 @@ In this repository, for SEREBRO you will find:
 * :x: Source code (not available)
 * :x: Original tool (not available)
 
-This tool was certified as Unworkable for this project as this tool is not available for download.
 
 This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Rose Gamble for her help in establishing this repository. 
