@@ -6,7 +6,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for SEREBRO you will find:
 * :x: Source code (not available)
-* :x: Original tool (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 
 This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Rose Gamble for her help in establishing this repository. 
